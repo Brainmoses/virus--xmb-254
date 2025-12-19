@@ -6,8 +6,15 @@
 ## 🚀 One-Click Setup Buttons
 
 <a href="https://github.com/JoshKingofc/ZANDILE-MK/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK%20REPOSITORY-purple?style=for-the-badge&logo=github" alt="Fork ZANDILE-MK" width="240">
+  <img src="https://img.shields.io/badge/FORK%20REPOSITORY-purple?style=for-the-badge&logo=github" alt="Fork Virus-254-king" width="240">
 </a>
+
+</a>
+</p>
+<p align="center">
+<a href="https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8"><img title="Author" 
+src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/>
 
 <a href="https://zandile-mk-session.onrender.com">
   <img title="GET SESSION ID" src="https://img.shields.io/badge/GET-SESSION ID HERE-green?style=for-the-badge&logo=kenya" width="230" height="38.45"/>
