@@ -58,5 +58,11 @@
 </div> 
 
 
+</a>
+</p>
+<p align="center">
+<a href="https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8"><img title="Author" 
+src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/>
 
 
