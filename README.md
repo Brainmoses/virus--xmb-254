@@ -61,5 +61,5 @@
 <p align="center"><b>Stay using virus--xmb-254</b></p>
 
 <p align="center">
-  🙏 Special thanks to <a href="https://github.com/mr-X-force" target="_blank">mr-X-force</a> for the Baileys support and all contributions.
+  🙏 Special thanks to <a href="https://files.catbox.moe/zfxqjl.mp4" target="_blank">mr-X-force</a> for the Baileys support and all contributions.
 </p>
