@@ -8,7 +8,7 @@ process.on("unhandledRejection", (reason, p) => {
 });
 
 
-// 𝗭𝗔𝗡𝗗𝗜𝗟𝗘 𝗠𝗞 CREATED BY 𝗝𝗢𝗦𝗛𝗨𝗔𝗠𝗔𝗠𝗕𝗢𝟭 𝗧𝗘𝗖𝗛 🤴 
+// Virus-254-king CREATED BY Virus-254-king 𝗧𝗘𝗖𝗛 🤴 
 
 const axios = require('axios')
 const config = require('./settings')
@@ -111,7 +111,7 @@ async function loadSession() {
         
         // Remove "malvin~" prefix if present, otherwise use full SESSION_ID
         const megaFileId = config.SESSION_ID.startsWith('ZANDILE-MK~') 
-            ? config.SESSION_ID.replace("ZANDILE-MK~", "") 
+            ? config.SESSION_ID.replace("virus--xmb-254~", "") 
             : config.SESSION_ID;
 
         const filer = File.fromURL(`https://mega.nz/file/${megaFileId}`);
@@ -127,7 +127,7 @@ async function loadSession() {
         console.log(chalk.green('[ ✅ ] MEGA session downloaded successfully'));
         return JSON.parse(data.toString());
     } catch (error) {
-        console.error('❌ Error loading session:', error.message);
+        console.error('🤚 Error loading session:', error.message);
         console.log(chalk.green('Will generate QR code instead'));
         return null;
     }
@@ -138,7 +138,7 @@ async function loadSession() {
 
 
 async function connectToWA() {
-    console.log(chalk.cyan("[ 🟠 ] Connecting to WhatsApp ⏳️..."));
+    console.log(chalk.cyan("[ 🫰 ] Connecting to WhatsApp 🫶..."));
 
     // Load session if available (now handles both Koyeb and MEGA)
     const creds = await loadSession();
@@ -167,13 +167,13 @@ async function connectToWA() {
 
         if (connection === 'close') {
             if (lastDisconnect.error ?.output ?.statusCode !== DisconnectReason.loggedOut) {
-                console.log(chalk.red('[ ⏳️ ] Connection lost, reconnecting...'));
+                console.log(chalk.red('[ 🪪 ] Connection lost, reconnecting...'));
                 setTimeout(connectToWA, 5000);
             } else {
-                console.log(chalk.red('[ 🛑 ] Connection closed, please change session ID'));
+                console.log(chalk.red('[ 🪩 ] Connection closed, please change session ID'));
             }
         } else if (connection === 'open') {
-        console.log('[ 🧩 ] Plugins installed successfully ✅');
+        console.log('[ 🧩 ] Plugins installed successfully 👌');
             
 
             // Load plugins
@@ -184,7 +184,7 @@ async function connectToWA() {
                 }
             });
             
-            console.log(chalk.green('[ 🤖 ] ZANDILE MK Connected ✅'));
+            console.log(chalk.green('[ 🤖 ] virus--xmb-254 Connected ✅'));
 
 
             // Send connection message
@@ -192,8 +192,8 @@ async function connectToWA() {
             try {
                 // const username = config.REPO.split('/').slice(3, 4)[0];
                 const botname = "ᴢᴀɴᴅɪʟᴇ-ᴍᴋ"; //add your name
-                const ownername = "ᴊᴏsʜᴜᴀᴍᴀᴍʙᴏ𝟭 ᴛᴇᴄʜ"; // add your name
-                const ZANDILE-MK = {
+                const ownername = "virus2 ᴛᴇᴄʜ"; // add your name
+                const LTE = {
                     key: {
                         remoteJid: 'status@broadcast',
                         participant: '0@s.whatsapp.net'
@@ -201,7 +201,7 @@ async function connectToWA() {
                     message: {
                         newsletterAdminInviteMessage: {
                             newsletterJid: '120363402507750390@newsletter', //add your channel jid
-                            newsletterName: "👑ᴊᴏsʜᴜᴀᴍᴀᴍʙᴏ𝟭 ᴛᴇᴄʜ🥰🫡", //add your bot name
+                            newsletterName: "🔮virus𝟭 ᴛᴇᴄʜ🥰🫡", //add your bot name
                             caption: botname + ` ʙʏ ` + ownername,
                             inviteExpiration: 0
                         }
@@ -213,20 +213,20 @@ async function connectToWA() {
                 const username = `Joshuamambo1`;
                 const mrJoshuamambo1 = `https://github.com/${username}`;
 
-                const upMessage = `\`ᴢᴀɴᴅɪʟᴇ-ᴍᴋ ʙᴏᴛ  ᴄᴏɴɴᴇᴄᴛᴇᴅ!\` ✅
+                const upMessage = `\'virus--xmb-254 ʙᴏᴛ  ᴄᴏɴɴᴇᴄᴛᴇᴅ!\` ✅
 \n\n> _One of the Best W.A Bot._\n\n────────────────
-> 🌟 \`Star Repo\` : 
+> 🔮 \`Star Repo\` : 
 ${config.REPO}\n
-> 🪄 \`Follow Us\` :
+> 🥰 \`Follow Us\` :
 ${mrmalvin}\n
-> ⛔  \`Bot Prefix\` ${prefix}\n
+> 🎮  \`Bot Prefix\` ${prefix}\n
 > 📺 \`ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ\`:
 https://youtube.com/@joshuamambo1
 ────────────────
 \n> © ᴊᴏsʜᴜᴀᴍᴀᴍʙᴏ𝟭 ᴛᴇᴄʜ`;
 
                await conn.sendMessage(conn.user.id, { 
-                        image: { url: `https://files.catbox.moe/dnjqau.jpg` },
+                        image: { url: `https://files.catbox.moe/dmuunz.jpg` },
 			ai: true,
                         caption: upMessage
 			
@@ -236,7 +236,7 @@ https://youtube.com/@joshuamambo1
             //  DOESN'T SUPOORT IOS
             
               await conn.sendMessage(conn.user.id, {
-                    image: { url: `https://files.catbox.moe/01f9y1.jpg` },
+                    image: { url: `https://files.catbox.moe/dmuunz.jpg` },
                     ai: true,
                     caption: upMessage
                 }, {
@@ -251,7 +251,7 @@ https://youtube.com/@joshuamambo1
 const newsletterChannels = [
   "120363347365643318@newsletter", // Main Channel
   "120363347365643318@newsletter", // Secondary Channel
-  "120363347365643318@newsletter"  // Tertiary Channel
+ "https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8"  // Tertiary Channel
 ];
 
 // 🔁 Follow each newsletter and collect results
