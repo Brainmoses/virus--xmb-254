@@ -1,7 +1,7 @@
 <h1 align="center">virus--xmb-254</h1>
 <h1 align="center">Stay on track everyone is mad</h1>
 
-<a href="#"><img src="https://files.catbox.moe/dmuunz.jpg" alt="MILDRED Brother Banner"/></a>
+<a href="#"><img src="https://files.catbox.moe/zfxqjl.mp4" alt="MILDRED Brother Banner"/></a>
 
 ## 🚀 One-Click Setup Buttons
 
@@ -60,6 +60,3 @@
 
 <p align="center"><b>Stay using virus--xmb-254</b></p>
 
-<p song="center"><b>"https://files.catbox.moe/kctwsq.mp3"/>
- </a>
- </p>
