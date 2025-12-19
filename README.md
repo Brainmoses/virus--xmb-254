@@ -58,10 +58,5 @@
 </div> 
 
 
-<p align="center">
-  <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="virus-XD docs" height="1000" src="https://files.catbox.moe/t5nmqt.jpg">
-  </a>
-</p>
 
 
