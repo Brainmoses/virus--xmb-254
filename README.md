@@ -1,5 +1,6 @@
-<h1 align="center">virus--xmb-254</h1>
-<h1 align="center">Stay on track everyone is mad</h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=virus-XD;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+  </a> 
+</div>
 
 <a href="#"><img src="https://files.catbox.moe/dmuunz.jpg" alt="MILDRED Brother Banner"/></a>
 
