@@ -54,7 +54,7 @@
 ## 📣 Official Channel
 <p align="center">
   <a href="https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8">
-    <img alt="WhatsApp Channel" width="86px" src="https://files.catbox.moe/zfxqjl.mp4" />
+    <img alt="WhatsApp Channel" width="86px" src="https://files.catbox.moe/kctwsq.mp3" />
   </a>
 </p>
 
