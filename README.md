@@ -16,7 +16,7 @@
 ### 📤 Deployment Options
 
 <!-- ✅ Heroku Deploy Button (Fixed) -->
-<a href="https://heroku.com/deploy?template=https://github.com/JoshKingofc/ZANDILE-MK" target="_blank">
+<a href="https://heroku.com/deploy?template=https://github.com/JoshKingofc/Virus-254-king" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku" width="220">
 </a>
 
