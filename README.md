@@ -58,5 +58,5 @@
   </a>
 </p>
 
-<p align="center"><b>Stay using virus--xmb-254</b></p>
+
 
