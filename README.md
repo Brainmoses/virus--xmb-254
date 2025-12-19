@@ -39,12 +39,12 @@
 <details>
 <summary>CLICK FOR MORE</summary>
 
-<a href="https://github.com/JoshKingofc/ZANDILE-MK/archive/refs/heads/main.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Download Zip" width="150">
+<a href="https://github.com/JoshKingofc/virus--xmb-245/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Download Zip" width="250">
 </a>
 
 <a href="https://dashboard.katabump.com/auth/login#5e58ec">
-  <img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Sign Up Hosting" width="150">
+  <img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Sign Up Hosting" width="250">
 </a>
 
 </details>
@@ -53,12 +53,12 @@
 
 ## 📣 Official Channel
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T">
-    <img alt="WhatsApp Channel" width="86px" src="https://b.top4top.io/p_3291qwfqu0.jpg" />
+  <a href="https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8">
+    <img alt="WhatsApp Channel" width="86px" src="https://files.catbox.moe/zfxqjl.mp4" />
   </a>
 </p>
 
-<p align="center"><b>Stay using ZANDILE Mk</b></p>
+<p align="center"><b>Stay using virus--xmb-254</b></p>
 
 <p align="center">
   🙏 Special thanks to <a href="https://github.com/mr-X-force" target="_blank">mr-X-force</a> for the Baileys support and all contributions.
