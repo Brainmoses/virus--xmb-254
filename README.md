@@ -60,6 +60,6 @@
 
 <p align="center"><b>Stay using virus--xmb-254</b></p>
 
-<p align="center">
-  🙏 Special thanks to <a href="https://files.catbox.moe/zfxqjl.mp4" target="_blank">mr-X-force</a> for the Baileys support and all contributions.
-</p>
+<p song="https://files.catbox.moe/kctwsq.mp3"/>
+ </a>
+ </p>
